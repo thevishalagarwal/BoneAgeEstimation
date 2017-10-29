@@ -1,4 +1,4 @@
-# BoneAgeEstimation
+# Bone Age Estimation
 ### Contribured by Vishal Agarwal, Jayanth Reddy
 
 A Deep Learning aproach for estimating bone age from hand x-ray images
@@ -18,7 +18,18 @@ Train : MAE = 8.726
 
 Valid : MAE = 10.958
 
-Test  : MAE = 8.978
+Test  : MAE = 8.578
+
+#### Clinical application of bone age
+- Beckwith–Wiedemann syndrome
+- Constitutional Delay of Growth and Puberty
+- Idiopathic Short Stature
+- Sotos syndrome
+- Short Children Born Small for Gestational Age
+- GH Deficiency
+- Turner Syndrome
+- Chronic Renal Failure
+- Marshall–Smith syndrome
 
 #### Future Work
 - Advanced feature extraction techniques can be used to improve further accuracy.
