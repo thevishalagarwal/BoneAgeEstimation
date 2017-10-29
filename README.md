@@ -3,7 +3,7 @@
 
 A Deep Learning aproach for estimating bone age from hand x-ray images
 
-This was done as a part of nNVIDIA problem statement at an 24 hour Hack2Innovate hackathon, conducted at Indian Institute of Technology Guwahati.
+This was done as a part of NVIDIA problem statement at an 24 hour Hack2Innovate hackathon, conducted at Indian Institute of Technology Guwahati.
 
 The dataset used for this problem statement was taken from a RSNA challenge for Pediatric Bone Age. Some of the images from the dataset are shown below
 
