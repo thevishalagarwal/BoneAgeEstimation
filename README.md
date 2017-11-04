@@ -34,3 +34,5 @@ Test  : MAE = 8.578
 #### Future Work
 - Advanced feature extraction techniques can be used to improve further accuracy.
 - The RSNA Pediatric Bone Age Dataset also contains gender labels. So the model trained separately for male and female classes will improve the accuracy.
+
+The weights for our model can be found [here](https://www.dropbox.com/s/rfivlkm0uqxi3f4/model.h5?dl=0)
